@@ -1,0 +1,869 @@
+{
+    "Alambadi": {
+        "male": {
+            "body_weight": "317-362 kg",
+            "type": "cow",
+            "origin": "Southern India (Tamil Nadu and Karnataka)",
+            "coat_color": "Iron-grey, with white patches around the eyes and above the muzzle. Some may be light to dark grey, fawn, or white.",
+            "horn_shape": "Backward curving like Mysore cattle, ending in sharp points."
+        },
+        "female": {
+            "milk_production": "1.32 L per day",
+            "body_weight": "~290 kg",
+            "type": "cow",
+            "origin": "Southern India (Tamil Nadu and Karnataka)",
+            "coat_color": "Iron-grey, with white patches around the eyes and above the muzzle. Some may be light to dark grey, fawn, or white.",
+            "horn_shape": "Backward curving like Mysore cattle, ending in sharp points."
+        }
+    },
+    "Amritmahal": {
+        "male": {
+            "body_weight": "500 kg",
+            "type": "cow",
+            "origin": "Karnataka, India",
+            "coat_color": "Grey, with shades from almost white to black. White-grey marks or patches may be present on the face and dewlap. Darker shades can be on the neck, shoulder, hump, and hindquarters.",
+            "horn_shape": "Long horns that are close together, go backward and upward, and then turn inward with sharp black points."
+        },
+        "female": {
+            "milk_production": "1.76 L per day",
+            "body_weight": "318 kg",
+            "type": "cow",
+            "origin": "Karnataka, India",
+            "coat_color": "Grey, with shades from almost white to black. White-grey marks or patches may be present on the face and dewlap. Darker shades can be on the neck, shoulder, hump, and hindquarters.",
+            "horn_shape": "Long horns that are close together, go backward and upward, and then turn inward with sharp black points."
+        }
+    },
+    "Ayrshire": {
+        "male": {
+            "body_weight": "~725 kg (1,600 lbs)",
+            "type": "cow",
+            "origin": "Scotland",
+            "coat_color": "White with dark red or reddish-brown spots and speckles.",
+            "horn_shape": "Lyre-shaped."
+        },
+        "female": {
+            "milk_production": "24.13 L per day",
+            "body_weight": "~500 kg (1,100 lbs)",
+            "type": "cow",
+            "origin": "Scotland",
+            "coat_color": "White with dark red or reddish-brown spots and speckles.",
+            "horn_shape": "Lyre-shaped."
+        }
+    },
+    "Banni": {
+        "male": {
+            "body_weight": "525-562 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India",
+            "coat_color": "Mainly black, sometimes copper-coloured.",
+            "horn_shape": "Typical coiled horns."
+        },
+        "female": {
+            "milk_production": "3.14 L per day",
+            "body_weight": "475-575 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India",
+            "coat_color": "Mainly black, sometimes copper-coloured.",
+            "horn_shape": "Typical coiled horns."
+        }
+    },
+    "Bargur": {
+        "male": {
+            "body_weight": "300 kg",
+            "type": "cow",
+            "origin": "Tamil Nadu, India",
+            "coat_color": "Brown with white patches, though some can be all white or all brown.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "Up to 3 L per day",
+            "body_weight": "250 kg",
+            "type": "cow",
+            "origin": "Tamil Nadu, India",
+            "coat_color": "Brown with white patches, though some can be all white or all brown.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Bhadawari": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "buffalo",
+            "origin": "Uttar Pradesh and Madhya Pradesh, India",
+            "coat_color": "Copper-coloured and grayish-black, with two white lines ('Chevron') on the lower side of the neck.",
+            "horn_shape": "Curled slightly outward, then downward before running backward parallel to the neck, finally turning upward."
+        },
+        "female": {
+            "milk_production": "2.44-2.62 L per day",
+            "body_weight": "Not specified.",
+            "type": "buffalo",
+            "origin": "Uttar Pradesh and Madhya Pradesh, India",
+            "coat_color": "Copper-coloured and grayish-black, with two white lines ('Chevron') on the lower side of the neck.",
+            "horn_shape": "Curled slightly outward, then downward before running backward parallel to the neck, finally turning upward."
+        }
+    },
+    "Brown Swiss": {
+        "male": {
+            "body_weight": "~900 kg",
+            "type": "cow",
+            "origin": "Switzerland",
+            "coat_color": "Light grayish-brown, but can range from nearly white to dark brown. The muzzle is black with a creamy white ring.",
+            "horn_shape": "Horned, but mainly dehorned as calves."
+        },
+        "female": {
+            "milk_production": "27.21 L per day",
+            "body_weight": "590-640 kg",
+            "type": "cow",
+            "origin": "Switzerland",
+            "coat_color": "Light grayish-brown, but can range from nearly white to dark brown. The muzzle is black with a creamy white ring.",
+            "horn_shape": "Horned, but mainly dehorned as calves."
+        }
+    },
+    "Dangi": {
+        "male": {
+            "body_weight": "364-455 kg",
+            "type": "cow",
+            "origin": "Maharashtra, India",
+            "coat_color": "White with red or black spots.",
+            "horn_shape": "Short and thick, with lateral pointing tips. Tips may also point inward or downward."
+        },
+        "female": {
+            "milk_production": "0.47-2.13 L per day",
+            "body_weight": "270-365 kg",
+            "type": "cow",
+            "origin": "Maharashtra, India",
+            "coat_color": "White with red or black spots.",
+            "horn_shape": "Short and thick, with lateral pointing tips. Tips may also point inward or downward."
+        }
+    },
+    "Deoni": {
+        "male": {
+            "body_weight": "590 kg",
+            "type": "cow",
+            "origin": "Maharashtra, India",
+            "coat_color": "Not specified.",
+            "horn_shape": "Horned."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "295 kg",
+            "type": "cow",
+            "origin": "Maharashtra, India",
+            "coat_color": "Not specified.",
+            "horn_shape": "Horned."
+        }
+    },
+    "Gir": {
+        "male": {
+            "body_weight": "~600 kg",
+            "type": "cow",
+            "origin": "Gujarat, India",
+            "coat_color": "The majority are red, but they can be yellow, white, black, or have white spotted coats.",
+            "horn_shape": "Thin and medium-sized horns that may be lyre-shaped."
+        },
+        "female": {
+            "milk_production": "6-10 liters per day",
+            "body_weight": "~450 kg",
+            "type": "cow",
+            "origin": "Gujarat, India",
+            "coat_color": "The majority are red, but they can be yellow, white, black, or have white spotted coats.",
+            "horn_shape": "Thin and medium-sized horns that may be lyre-shaped."
+        }
+    },
+    "Guernsey": {
+        "male": {
+            "body_weight": "600-700 kg",
+            "type": "cow",
+            "origin": "Guernsey island in the Channel Islands.",
+            "coat_color": "Fawn or red, may be pied red-and-white or fawn-and-white.",
+            "horn_shape": "Horned."
+        },
+        "female": {
+            "milk_production": "16.44 L per day",
+            "body_weight": "450-500 kg",
+            "type": "cow",
+            "origin": "Guernsey island in the Channel Islands.",
+            "coat_color": "Fawn or red, may be pied red-and-white or fawn-and-white.",
+            "horn_shape": "Horned."
+        }
+    },
+    "Hallikar": {
+        "male": {
+            "body_weight": "400-1000 kg",
+            "type": "cow",
+            "origin": "Karnataka, India",
+            "coat_color": "White to light grey.",
+            "horn_shape": "Emerge close together from the poll, go straight upward and backward, then slightly forward and inward with pointed tips."
+        },
+        "female": {
+            "milk_production": "1.66 L per day",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Karnataka, India",
+            "coat_color": "White to light grey.",
+            "horn_shape": "Emerge close together from the poll, go straight upward and backward, then slightly forward and inward with pointed tips."
+        }
+    },
+    "Hariana": {
+        "male": {
+            "body_weight": "~430 kg",
+            "type": "cow",
+            "origin": "Haryana and eastern Punjab, India.",
+            "coat_color": "White to grey.",
+            "horn_shape": "Short."
+        },
+        "female": {
+            "milk_production": "~10-15 liters per day",
+            "body_weight": "~310 kg",
+            "type": "cow",
+            "origin": "Haryana and eastern Punjab, India.",
+            "coat_color": "White to grey.",
+            "horn_shape": "Short."
+        }
+    },
+    "Holstein_Friesian": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Frisia (Netherlands and Germany).",
+            "coat_color": "Black and white, or red and white, in pied patterns.",
+            "horn_shape": "Horned, but are mainly dehorned."
+        },
+        "female": {
+            "milk_production": "27.18 L per day",
+            "body_weight": "680-770 kg",
+            "type": "cow",
+            "origin": "Frisia (Netherlands and Germany).",
+            "coat_color": "Black and white, or red and white, in pied patterns.",
+            "horn_shape": "Horned, but are mainly dehorned."
+        }
+    },
+    "Jaffrabadi": {
+        "male": {
+            "body_weight": "~700 kg",
+            "type": "buffalo",
+            "origin": "Gir forest of Kathiawar, India.",
+            "coat_color": "Black with white patches on the face and legs.",
+            "horn_shape": "Flat, thick, and drooping on each side of the neck with a loose curve."
+        },
+        "female": {
+            "milk_production": "7.50 L per day",
+            "body_weight": "~620 kg",
+            "type": "buffalo",
+            "origin": "Gir forest of Kathiawar, India.",
+            "coat_color": "Black with white patches on the face and legs.",
+            "horn_shape": "Flat, thick, and drooping on each side of the neck with a loose curve."
+        }
+    },
+    "Jersey": {
+        "male": {
+            "body_weight": "540-820 kg",
+            "type": "cow",
+            "origin": "Jersey island in Great Britain.",
+            "coat_color": "Generally fawn, ranging from brown to tan.",
+            "horn_shape": "Horned, though many are now polled."
+        },
+        "female": {
+            "milk_production": "15.34 L per day",
+            "body_weight": "400-500 kg",
+            "type": "cow",
+            "origin": "Jersey island in Great Britain.",
+            "coat_color": "Generally fawn, ranging from brown to tan.",
+            "horn_shape": "Horned, though many are now polled."
+        }
+    },
+    "Kangayam": {
+        "male": {
+            "body_weight": "~523 kg",
+            "type": "cow",
+            "origin": "India.",
+            "coat_color": "Calves are born red but turn grey by age two. Bulls are darker and may be black on the head and foreparts. Cows are grey or dark grey, and become completely white as they age.",
+            "horn_shape": "Two horn types: one with a slight backward curve, and a larger variety with longer horns that curve outward and backward, forming nearly a full circle."
+        },
+        "female": {
+            "milk_production": "Not known for milk production.",
+            "body_weight": "~341 kg",
+            "type": "cow",
+            "origin": "India.",
+            "coat_color": "Calves are born red but turn grey by age two. Cows are grey or dark grey, and become completely white as they age.",
+            "horn_shape": "Two horn types: one with a slight backward curve, and a larger variety with longer horns that curve outward and backward, forming nearly a full circle."
+        }
+    },
+    "Kankrej": {
+        "male": {
+            "body_weight": "~590 kg",
+            "type": "cow",
+            "origin": "Gujarat and Rajasthan, India.",
+            "coat_color": "Grey, from silver to dark.",
+            "horn_shape": "Large and curved in a lyre shape."
+        },
+        "female": {
+            "milk_production": "2.13-3.72 L per day",
+            "body_weight": "~431 kg",
+            "type": "cow",
+            "origin": "Gujarat and Rajasthan, India.",
+            "coat_color": "Grey, from silver to dark.",
+            "horn_shape": "Large and curved in a lyre shape."
+        }
+    },
+    "Kasargod": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Kerala, India.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "Known for high milk yield, but no specific daily amount available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Kerala, India.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Kenkatha": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Uttar Pradesh and Madhya Pradesh, India.",
+            "coat_color": "Shades of grey and black, rarely white.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Uttar Pradesh and Madhya Pradesh, India.",
+            "coat_color": "Shades of grey and black, rarely white.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Khillari": {
+        "male": {
+            "body_weight": "350-450 kg",
+            "type": "cow",
+            "origin": "Maharashtra, India.",
+            "coat_color": "Compact and tight white skin, but the Deccan plateau, Mhaswad, and Atpadi Mahal types are grayish white. The Tapi Khillar is white with a carroty nose and hooves, while the Nakali Khillar is gray with tawny or brick dust color over the forequarters.",
+            "horn_shape": "Horns are typically curved."
+        },
+        "female": {
+            "milk_production": "8-12 liters per day",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Maharashtra, India.",
+            "coat_color": "Compact and tight white skin, but the Deccan plateau, Mhaswad, and Atpadi Mahal types are grayish white. The Tapi Khillar is white with a carroty nose and hooves, while the Nakali Khillar is gray with tawny or brick dust color over the forequarters.",
+            "horn_shape": "Horns are typically curved."
+        }
+    },
+    "Krishna Valley": {
+        "male": {
+            "body_weight": "550 kg",
+            "type": "cow",
+            "origin": "Karnataka, India.",
+            "coat_color": "Greyish white.",
+            "horn_shape": "Horned."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "325 kg",
+            "type": "cow",
+            "origin": "Karnataka, India.",
+            "coat_color": "Greyish white.",
+            "horn_shape": "Horned."
+        }
+    },
+    "Malnad gidda": {
+        "male": {
+            "body_weight": "Small stature.",
+            "type": "cow",
+            "origin": "Karnataka, India.",
+            "coat_color": "Black to brown complexions.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "Up to 3-4 liters per day",
+            "body_weight": "Small stature.",
+            "type": "cow",
+            "origin": "Karnataka, India.",
+            "coat_color": "Black to brown complexions.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Mehsana": {
+        "male": {
+            "body_weight": "570 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India.",
+            "coat_color": "Jet black.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "One of the best milk breeds in India, no specific daily amount available.",
+            "body_weight": "430 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India.",
+            "coat_color": "Jet black.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Murrah": {
+        "male": {
+            "body_weight": "~550 kg",
+            "type": "buffalo",
+            "origin": "Haryana, India.",
+            "coat_color": "Jet black.",
+            "horn_shape": "Short and tightly curved."
+        },
+        "female": {
+            "milk_production": "7.10 L per day",
+            "body_weight": "~450 kg",
+            "type": "buffalo",
+            "origin": "Haryana, India.",
+            "coat_color": "Jet black.",
+            "horn_shape": "Short and tightly curved."
+        }
+    },
+    "Nagori": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Rajasthan, India.",
+            "coat_color": "White and grey.",
+            "horn_shape": "Moderate in size, emerge outwards, and curve upwards."
+        },
+        "female": {
+            "milk_production": "1.60 L per day",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Rajasthan, India.",
+            "coat_color": "White and grey.",
+            "horn_shape": "Moderate in size, emerge outwards, and curve upwards."
+        }
+    },
+    "Nagpuri": {
+        "male": {
+            "body_weight": "525 kg",
+            "type": "buffalo",
+            "origin": "Maharashtra, India.",
+            "coat_color": "Black with white patches on the face, legs, and tail tips. Some may be brown.",
+            "horn_shape": "Long, flat, and curved, bending backward on each side of the neck."
+        },
+        "female": {
+            "milk_production": "3.31 L per day",
+            "body_weight": "425 kg",
+            "type": "buffalo",
+            "origin": "Maharashtra, India.",
+            "coat_color": "Black with white patches on the face, legs, and tail tips. Some may be brown.",
+            "horn_shape": "Long, flat, and curved, bending backward on each side of the neck."
+        }
+    },
+    "Nili_Ravi": {
+        "male": {
+            "body_weight": "~800 kg",
+            "type": "buffalo",
+            "origin": "Punjab province, Pakistan.",
+            "coat_color": "Black.",
+            "horn_shape": "Small, curly horns."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "~525 kg",
+            "type": "buffalo",
+            "origin": "Punjab province, Pakistan.",
+            "coat_color": "Black.",
+            "horn_shape": "Small, curly horns."
+        }
+    },
+    "Nimari": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Nimar region of Madhya Pradesh and Jalgaon district in Maharashtra, India.",
+            "coat_color": "Generally red, with white patches.",
+            "horn_shape": "Not pendulous, but thick and protruding."
+        },
+        "female": {
+            "milk_production": "Very average milk yielders.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Nimar region of Madhya Pradesh and Jalgaon district in Maharashtra, India.",
+            "coat_color": "Generally red, with white patches.",
+            "horn_shape": "Not pendulous, but thick and protruding."
+        }
+    },
+    "Ongole": {
+        "male": {
+            "body_weight": "~500 kg",
+            "type": "cow",
+            "origin": "Prakasam District in Andhra Pradesh, India.",
+            "coat_color": "White, but can also be brown.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "1.60-6.68 L per day",
+            "body_weight": "432-455 kg",
+            "type": "cow",
+            "origin": "Prakasam District in Andhra Pradesh, India.",
+            "coat_color": "White, but can also be brown.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Pulikulam": {
+        "male": {
+            "body_weight": "Small stature with a compact body and short legs.",
+            "type": "cow",
+            "origin": "Madurai, Sivaganda, and Virudhunagar districts of Tamil Nadu, India.",
+            "coat_color": "Males are dark grey while females are white or grey.",
+            "horn_shape": "Curved outward, upward, backward, and then inward, ending with pointed tips spaced wide apart."
+        },
+        "female": {
+            "milk_production": "0.5-2 kg per day",
+            "body_weight": "Small stature with a compact body and short legs.",
+            "type": "cow",
+            "origin": "Madurai, Sivaganda, and Virudhunagar districts of Tamil Nadu, India.",
+            "coat_color": "Males are dark grey while females are white or grey.",
+            "horn_shape": "Curved outward, upward, backward, and then inward, ending with pointed tips spaced wide apart."
+        }
+    },
+    "Rathi": {
+        "male": {
+            "body_weight": "386 kg",
+            "type": "cow",
+            "origin": "Thar Desert, Rajasthan, India.",
+            "coat_color": "Usually brown with patches of white.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "4.81 L per day",
+            "body_weight": "327 kg",
+            "type": "cow",
+            "origin": "Thar Desert, Rajasthan, India.",
+            "coat_color": "Usually brown with patches of white.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Red Dane": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Denmark.",
+            "coat_color": "Red.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Denmark.",
+            "coat_color": "Red.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Red Sindhi": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Sindh, Pakistan.",
+            "coat_color": "Red.",
+            "horn_shape": "Stumpy and short horns."
+        },
+        "female": {
+            "milk_production": "4.93 L per day",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Sindh, Pakistan.",
+            "coat_color": "Red.",
+            "horn_shape": "Stumpy and short horns."
+        }
+    },
+    "Sahiwal": {
+        "male": {
+            "body_weight": "400-500 kg",
+            "type": "cow",
+            "origin": "India and Pakistan.",
+            "coat_color": "Reddish dun or pale red, may have some white patches.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "6.57-8.22 L per day",
+            "body_weight": "300-400 kg",
+            "type": "cow",
+            "origin": "India and Pakistan.",
+            "coat_color": "Reddish dun or pale red, may have some white patches.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "Surti": {
+        "male": {
+            "body_weight": "~500 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India.",
+            "coat_color": "Brown or yellowish, with two white bands on the neck.",
+            "horn_shape": "Flat, sickle-shaped, and relatively short."
+        },
+        "female": {
+            "milk_production": "4.38-4.93 L per day",
+            "body_weight": "~400 kg",
+            "type": "buffalo",
+            "origin": "Gujarat, India.",
+            "coat_color": "Brown or yellowish, with two white bands on the neck.",
+            "horn_shape": "Flat, sickle-shaped, and relatively short."
+        }
+    },
+    "Tharparkar": {
+        "male": {
+            "body_weight": "~400 kg",
+            "type": "cow",
+            "origin": "Thar Desert in Rajasthan, India, and Pakistan.",
+            "coat_color": "White or grey, may be grey on the face and limbs.",
+            "horn_shape": "Short."
+        },
+        "female": {
+            "milk_production": "4.38-5.48 L per day",
+            "body_weight": "~300 kg",
+            "type": "cow",
+            "origin": "Thar Desert in Rajasthan, India, and Pakistan.",
+            "coat_color": "White or grey, may be grey on the face and limbs.",
+            "horn_shape": "Short."
+        }
+    },
+    "Toda": {
+        "male": {
+            "body_weight": "~350 kg",
+            "type": "buffalo",
+            "origin": "Nilgiri hills in Tamil Nadu, India.",
+            "coat_color": "Black.",
+            "horn_shape": "Curled outward and inward at the tips."
+        },
+        "female": {
+            "milk_production": "2-4 liters per day",
+            "body_weight": "~270 kg",
+            "type": "buffalo",
+            "origin": "Nilgiri hills in Tamil Nadu, India.",
+            "coat_color": "Black.",
+            "horn_shape": "Curled outward and inward at the tips."
+        }
+    },
+    "Umblachery": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Tamil Nadu, India.",
+            "coat_color": "Grey or black.",
+            "horn_shape": "Short and curving backwards."
+        },
+        "female": {
+            "milk_production": "Low milk producers, no specific daily amount available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Tamil Nadu, India.",
+            "coat_color": "Grey or black.",
+            "horn_shape": "Short and curving backwards."
+        }
+    },
+    "Vechur": {
+        "male": {
+            "body_weight": "~140 kg",
+            "type": "cow",
+            "origin": "Kerala, India.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Small and thin."
+        },
+        "female": {
+            "milk_production": "2.5-3 liters per day",
+            "body_weight": "~120 kg",
+            "type": "cow",
+            "origin": "Kerala, India.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Small and thin."
+        }
+    },
+    "brahman": {
+        "male": {
+            "body_weight": "750-1,030 kg",
+            "type": "cow",
+            "origin": "India.",
+            "coat_color": "Vary from very light grey or red to almost black.",
+            "horn_shape": "Curve upwards and sometimes tilt to the rear."
+        },
+        "female": {
+            "milk_production": "Described as producing 'satisfactory milk flow,' but no specific daily amount available.",
+            "body_weight": "500-660 kg",
+            "type": "cow",
+            "origin": "India.",
+            "coat_color": "Vary from very light grey or red to almost black.",
+            "horn_shape": "Curve upwards and sometimes tilt to the rear."
+        }
+    },
+    "brahman cross": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "cholistani": {
+        "male": {
+            "body_weight": "500-600 kg",
+            "type": "cow",
+            "origin": "Cholistan Desert, Pakistan.",
+            "coat_color": "White with black, brown, or red spots.",
+            "horn_shape": "Small."
+        },
+        "female": {
+            "milk_production": "7-12 liters per day",
+            "body_weight": "300-400 kg",
+            "type": "cow",
+            "origin": "Cholistan Desert, Pakistan.",
+            "coat_color": "White with black, brown, or red spots.",
+            "horn_shape": "Small."
+        }
+    },
+    "cholistani cross": {
+        "male": {
+            "body_weight": "500-600 kg",
+            "type": "cow",
+            "origin": "Cholistan Desert, Pakistan.",
+            "coat_color": "Speckled red, black or brown.",
+            "horn_shape": "Small."
+        },
+        "female": {
+            "milk_production": "Elite specimens can produce 15-18 liters per day.",
+            "body_weight": "300-400 kg",
+            "type": "cow",
+            "origin": "Cholistan Desert, Pakistan.",
+            "coat_color": "Speckled red, black or brown.",
+            "horn_shape": "Small."
+        }
+    },
+    "dhani": {
+        "male": {
+            "body_weight": "400 kg",
+            "type": "cow",
+            "origin": "Punjab province, Pakistan.",
+            "coat_color": "White coat with black or red/brown spots.",
+            "horn_shape": "Stumpy."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "300 kg",
+            "type": "cow",
+            "origin": "Punjab province, Pakistan.",
+            "coat_color": "White coat with black or red/brown spots.",
+            "horn_shape": "Stumpy."
+        }
+    },
+    "fresian": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Netherlands and Germany.",
+            "coat_color": "Black and white, or red and white, in pied patterns.",
+            "horn_shape": "Horned, but mainly dehorned as calves."
+        },
+        "female": {
+            "milk_production": "More than 27.39 L per day.",
+            "body_weight": "680-770 kg",
+            "type": "cow",
+            "origin": "Netherlands and Germany.",
+            "coat_color": "Black and white, or red and white, in pied patterns.",
+            "horn_shape": "Horned, but mainly dehorned as calves."
+        }
+    },
+    "fresian cross": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "kankarej": {
+        "male": {
+            "body_weight": "~590 kg",
+            "type": "cow",
+            "origin": "Gujarat and Rajasthan, India.",
+            "coat_color": "Grey, from silver to dark.",
+            "horn_shape": "Large and curved in a lyre shape."
+        },
+        "female": {
+            "milk_production": "2.13-3.72 L per day",
+            "body_weight": "~431 kg",
+            "type": "cow",
+            "origin": "Gujarat and Rajasthan, India.",
+            "coat_color": "Grey, from silver to dark.",
+            "horn_shape": "Large and curved in a lyre shape."
+        }
+    },
+    "sahiwal cross": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Not specified.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "sibbi": {
+        "male": {
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Sibbi region of Balochistan, Pakistan.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        },
+        "female": {
+            "milk_production": "5-7 liters per day",
+            "body_weight": "Not specified.",
+            "type": "cow",
+            "origin": "Sibbi region of Balochistan, Pakistan.",
+            "coat_color": "Not specified.",
+            "horn_shape": "Not specified."
+        }
+    },
+    "unidentified (mixed)": {
+        "male": {
+            "body_weight": "Not applicable.",
+            "type": "Not applicable.",
+            "origin": "Not applicable.",
+            "coat_color": "Not applicable.",
+            "horn_shape": "Not applicable."
+        },
+        "female": {
+            "milk_production": "No milk production data available.",
+            "body_weight": "Not applicable.",
+            "type": "Not applicable.",
+            "origin": "Not applicable.",
+            "coat_color": "Not applicable.",
+            "horn_shape": "Not applicable."
+        }
+    }
+}
