@@ -4,6 +4,7 @@ import tensorflow as tf
 from fastapi import FastAPI, File, UploadFile, HTTPException, Depends
 from pydantic import BaseModel
 # from tensorflow.lite.python.interpreter import Interpreter
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi_proxiedheadersmiddleware import ProxiedHeadersMiddleware
 
 app = FastAPI()
@@ -153,5 +154,6 @@ def get_buffalo_breed(breed_name: str):
         return found_breed
     else:
         raise HTTPException(status_code=404, detail=f"Buffalo breed '{breed_name}' not found.")
+
 
 
