@@ -7,7 +7,10 @@ from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi_proxiedheadersmiddleware import ProxiedHeadersMiddleware
 
-app = FastAPI()
+app = FastAPI(title="Buffalo Breed Recognition API!",
+              description="Written for SIH-Project by Gradient-Gang Team",
+              version="1.1.0"
+             )
 
 # Proxy headers handling
 app.add_middleware(ProxiedHeadersMiddleware)
@@ -154,6 +157,7 @@ def get_buffalo_breed(breed_name: str):
         return found_breed
     else:
         raise HTTPException(status_code=404, detail=f"Buffalo breed '{breed_name}' not found.")
+
 
 
 
